@@ -1,0 +1,29 @@
+PORTFOLIO WEBSITE PRESENTATION SLIDES
+=====================================
+
+This file is a placeholder for the presentation slides PDF.
+
+To create the actual slides.pdf file:
+1. Create a presentation using PowerPoint, Google Slides, or similar tool
+2. Include the following sections:
+   - Title slide: Portfolio Website - Assignment 4
+   - Project Overview
+   - Features and Technologies
+   - Design and UI/UX
+   - Responsive Design
+   - Key Sections (Hero, About, Skills, Projects, Contact)
+   - Technical Implementation
+   - Challenges and Solutions
+   - Future Enhancements
+   - Demo and Q&A
+
+3. Export as PDF and save as slides.pdf in this folder
+
+Alternatively, you can use online tools like:
+- Canva
+- Prezi
+- SlideShare
+- Or any PDF creation tool
+
+The presentation should be professional and cover all aspects of the portfolio website project.
+
